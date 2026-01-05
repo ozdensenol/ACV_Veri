@@ -1,0 +1,5 @@
+Pandas Sürümü: 2.1.4
+Numpy Sürümü: 1.26.4
+Seaborn Sürümü: 0.12.2
+Matplotlib Sürümü: 3.8.0
+Scikit-learn Sürümü: 1.4.1.post1
